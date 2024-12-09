@@ -11,6 +11,7 @@ app.get("/", (req, res) => {
   names.push("SarahM");
   names.push("Shouq");
   names.push("Sarah");
+  names.push("Sarah Alenezi");
   names.push("Sarah AlRashidi");
   names.push("Hello...");
   names.push("Hey there! This is Sultan!");
