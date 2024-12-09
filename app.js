@@ -18,9 +18,10 @@ app.get("/", (req, res) => {
   names.push("Sarah");
   names.push("Abdullah Al Abbas");
   names.push("Abdullah Mashaan");
-  names.push("Hamad AlKhalaf");
-  names.push("Hey there! This is Sultan!");
+  names.push("Yousef");
   names.push("hellooo its jenen!");
+  names.push("Hamad AlKhalaf");
+
 
   res.send(names);
 });
